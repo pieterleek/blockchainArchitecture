@@ -1,4 +1,4 @@
-##  HvA Blockchain Architecture :: Practicum Week 5
+##  Blockchain Architecture :: Practicum Week 5
 
 This project aims at discussing how a blockchain application can integrate with external systems. It also explores the consequences of making external calls, which force these external services to be deterministic.
 
