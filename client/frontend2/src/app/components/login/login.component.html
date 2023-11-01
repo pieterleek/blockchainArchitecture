@@ -1,0 +1,38 @@
+<div class="container">
+    <div class="row" *ngIf="welcomeMessage">
+        <div class="col">
+            <div class="alert alert-info alert-dismissible fade show" role="alert">
+                {{ welcomeMessage }}
+                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-3">
+        </div>
+        <div class="col-sm-6">
+            <form (ngSubmit)="onSubmit()" #f="ngForm">
+
+                <div class="form-group">
+                    <label for="inputEmail">E-mail</label>
+                    <input type="email" class="form-control" id="inputEmail" name="email" [(ngModel)]="participant.id"
+                        #emailComponent="ngModel" required email>
+                    <div *ngIf="!emailComponent.valid && emailComponent.touched" class="alert alert-warning">Please
+                        enter a valid e-mail</div>
+                </div>
+
+                <button type="submit" class="btn btn-primary" [disabled]="!myForm?.valid">Login</button>
+            </form>
+        </div>
+        <div class="col-sm-3">
+        </div>
+    </div>
+    <hr>
+    <div class="row>">
+        <div class="col">
+            <div *ngIf="errorMessage" class="alert alert-danger">{{ errorMessage }}</div>
+        </div>
+    </div>
+</div>

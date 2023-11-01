@@ -1,0 +1,25 @@
+{
+  "name": "egg-tracking-contract",
+  "version": "1.0.3",
+  "description": "Egg Tracking Contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc mocha --recursive",
+    "start": "fabric-chaincode-node start"
+  },
+  "author": "MFK",
+  "license": "ISC",
+  "dependencies": {
+    "fabric-contract-api": "^2.2.1",
+    "fabric-shim": "^2.2.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^7.27.0",
+    "mocha": "^8.4.0",
+    "nyc": "^15.1.0",
+    "sinon": "^11.1.1",
+    "sinon-chai": "^3.7.0"
+  }
+}

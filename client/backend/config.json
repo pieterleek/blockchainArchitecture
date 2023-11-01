@@ -1,0 +1,10 @@
+{
+    "connectionProfile": "Org1MSP_profile.json",
+    "appAdmin": "admin",
+    "orgMSPID": "Org1MSP",
+    "caName": "ca",
+    "gatewayDiscovery": {
+        "enabled": true,
+        "asLocalhost": false
+    }
+}
