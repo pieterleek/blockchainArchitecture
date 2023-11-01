@@ -20,3 +20,26 @@ Our course delves into the essential aspects of blockchain architecture and the 
 ## Course Content
 
 Throughout the duration of this course, a branch will be created for each week. These branches will contain assignments and associated files, facilitating your learning journey.
+
+## Assessment
+
+This course covers the architectural design choices that must be made by team members while designing a software system using a blockchain. The project group should create a permissioned blockchain network using Hyperledger Fabric. The case study should be defined by the group and defended in week 2 to get approval from the lecturer.
+
+Students will demo their proof-of-concept in and deliver a report describing the experiment in week 10, with the following topics.
+
+ - Use Case Description
+ - Data and transaction model
+ - How participants, assets and transactions were modelled?
+ - Logic (Smart Contracts)
+ - What are the business rules?
+ - Which types of events are generated, and who consumes such events?
+ - Privacy and Security
+ - Authentication and Authorisation
+ - Integration
+ - How does the blockchain network interact with external systems (calls and events)?
+ - Architecture organisation
+ - How many peers and organisations?
+ - How does consensus/endorsement work in your network
+ - Network hosting
+ - What is the chosen hosting strategy?
+
