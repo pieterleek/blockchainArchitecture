@@ -1,4 +1,4 @@
-##  HvA Blockchain Architecture :: Practicum
+##  Blockchain Architecture :: Practicum
 
 An article published by Forbes in 2022 called [Blockchain 50: Billion Dollar Babies](https://www.forbes.com/sites/michaeldelcastillo/2022/02/08/forbes-blockchain-50-2022/?sh=3534811e31c6) shows which platforms these companies are using in their projects. The top three platforms are Ethereum, Hyperledger Fabric and Bitcoin. 
 
