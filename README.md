@@ -1,4 +1,4 @@
-##  HvA Blockchain Architecture :: Practicum
+##  Blockchain Architecture :: Practicum
 
 This project aims at covering the development process of a permissioned blockchain network using Hyperledger Fabric (HLF) version 2.5. 
 
