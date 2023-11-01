@@ -25,7 +25,7 @@ Throughout the duration of this course, a branch will be created for each week. 
 
 This course covers the architectural design choices that must be made by team members while designing a software system using a blockchain. The project group should create a permissioned blockchain network using Hyperledger Fabric. The case study should be defined by the group and defended in week 2 to get approval from the lecturer.
 
-Students will demo their proof-of-concept in and deliver a report describing the experiment in week 10, with the following topics.
+Students will demo their proof-of-concept in and deliver a report describing the experiment, with the following topics.
 
  - Use Case Description
  - Data and transaction model
