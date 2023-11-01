@@ -1,4 +1,4 @@
-##  HvA Blockchain Architecture :: Practicum Week 4
+##  Blockchain Architecture :: Practicum Week 4
 
 This project aims at covering the development process of a security layer of the RESTful API that connects to the Blockchain. 
 
