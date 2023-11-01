@@ -1,4 +1,4 @@
-# Welcome to Blockchain Architecture!
+# Welcome to Blockchain Architecture course!
 
 Welcome to the world of blockchain architecture! This repository plays a vital role in understanding and harnessing the potential of blockchain technology.
 
