@@ -1,0 +1,6 @@
+<div *ngIf="element">
+<h5>Egg Boxes</h5>
+<ul class="list-group">
+    <li class="list-group-item" *ngFor="let eggId of element.record.eggIds">{{ eggId }}</li>
+</ul>
+</div>
