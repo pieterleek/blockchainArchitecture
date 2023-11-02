@@ -1,6 +1,6 @@
 # Welcome to Blockchain Architecture course!
 
-Welcome to the world of blockchain architecture! This repository plays a vital role in understanding and harnessing the potential of blockchain technology.
+Welcome to the world of blockchain architecture! This repository plays a vital role in understanding and harnessing the potential of blockchain technology. This course is designed for the minor Blockchain at the Amsterdam University of Applied Science.
 
 Blockchain is a revolutionary distributed ledger technology that has transformed the way transactions are conducted. Its profound impact on the software industry calls for a proactive approach, empowering professionals to develop tools and techniques rooted in blockchain principles and seamlessly integrate blockchain into their projects.
 
